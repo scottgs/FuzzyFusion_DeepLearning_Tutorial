@@ -21,7 +21,7 @@ Tutorial content develop by Alex Yang and Bryce Murray
 Department of Electrical Engineering and Computer Science
 University of Missouri - Columbia
 
-## Tutorial Autohor / Organizer
+## Tutorial Organizer
 Grant Scott
 Department of Electrical Engineering and Computer Science
 University of Missouri - Columbia
@@ -34,7 +34,7 @@ The tutorial was developed thanks to support of:
  * **Mizzou High Performance Data-Intensive Computing Systems Laboratory**
  * **Mizzou INformation and Data FUsion Laboratory (MINDFUL)**
 
-The tutorial is delivered with support of the University of Missouri
+The tutorial is delivered with support of the University of Missouri's
 **_Data Science and Analytics Program_**
 
 

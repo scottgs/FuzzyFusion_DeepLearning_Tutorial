@@ -39,5 +39,10 @@ The tutorial is delivered with support of the University of Missouri's
 
 
 # Deliveries
-## [FUZZ-IEEE Tutorial](https://attend.ieee.org/fuzzieee-2019/tutorials/#ffodfhdmlm)
+### [FUZZ-IEEE Tutorial](https://attend.ieee.org/fuzzieee-2019/tutorials/#ffodfhdmlm)
+ * 2019, June 23, 1400 - 1600
+ * IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 
+   * New Orleans, LA, USA
+   * June 23-26, 2019
+ 
 

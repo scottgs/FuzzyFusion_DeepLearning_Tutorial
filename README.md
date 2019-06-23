@@ -17,9 +17,18 @@ case-study demonstrating how the components have been tied together
 for scientific studies in remote sensing.
 
 ## Code Content
-Tutorial content develop by Alex Yang and Bryce Murray
+Tutorial code content develop by Alex Yang and Bryce Murray
 Department of Electrical Engineering and Computer Science
 University of Missouri - Columbia
+
+Please see the Jupyter Notebooks in [notebooks](notebooks/)
+ * [IntroductionToPyTorch](notebooks/IntroductionToPyTorch.ipynb)  
+ * [PyTorchResNet50](notebooks/PyTorchResNet50.ipynb)
+ * [FuzzyFusion](notebooks/FuzzyFusion.ipynb)
+
+## Docker container image for running tutorial codes
+
+https://hub.docker.com/r/muiidsa/singleuser-pytorch-cpu/
 
 ## Tutorial Organizer
 Grant Scott
@@ -29,13 +38,11 @@ University of Missouri - Columbia
 Director, Data Science and Analytics
 University of Missouri
 
+
 # Sponsors / Support
 The tutorial was developed thanks to support of:
  * **Mizzou High Performance Data-Intensive Computing Systems Laboratory**
  * **Mizzou INformation and Data FUsion Laboratory (MINDFUL)**
-
-The tutorial is delivered with support of the University of Missouri's
-**_Data Science and Analytics Program_**
 
 
 # Deliveries
@@ -44,5 +51,7 @@ The tutorial is delivered with support of the University of Missouri's
  * IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 
    * New Orleans, LA, USA
    * June 23-26, 2019
+ * The tutorial is delivered with support of the University of Missouri's **_Data Science and Analytics Program_**
+
  
 
